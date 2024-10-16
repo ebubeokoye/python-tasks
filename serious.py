@@ -5,3 +5,4 @@ for number in numbers:
 
 # Hey! this is great code!. THe name of the file is serious? Wow. 
 # I'm not the only serious person here. Good to know.
+#i want to be a dope programmer someday!
